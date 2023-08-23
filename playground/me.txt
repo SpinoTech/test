@@ -1,5 +1,0 @@
-{{#user}}
-Name: Parichay haldar
-Skills: HTML, CSS, JS, React.js , node.js , c++ , sql
-Email: haldarparichay@gmail.com
-{{/user}}
